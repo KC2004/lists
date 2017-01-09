@@ -17,7 +17,7 @@ def all_odd(numbers):
         []
     """
 
-    return [num for num in numbers if (num%2 == 1)]
+    return [num for num in numbers if (num % 2 == 1)]
 
 
 def print_indices(items):
